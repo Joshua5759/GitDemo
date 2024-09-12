@@ -20,4 +20,4 @@ text
 
 
 
-[googel](http://google.ie)
+[google](http://google.ie)
